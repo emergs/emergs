@@ -45,7 +45,7 @@
 
 ## Status
 [![Statics](https://github-readme-stats.vercel.app/api?username=emergs&theme=blue-green)]()
-[![Statics](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]()
+[![Statics](https://github-readme-stats.vercel.app/api/top-langs/?username=emergs&theme=blue-green)]()
 
 
 
