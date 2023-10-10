@@ -12,7 +12,7 @@
 
 
 ## Ferramentas e Tecnologias
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap:15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px"/>
@@ -34,6 +34,7 @@
 
 ## Estou aprendendo
 
+<div style="display: flex; justify-content: space-between; gap:15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50px" height="50px"/>
@@ -41,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" height="50px"/>
-
+</div>
 
 
 ## Status
